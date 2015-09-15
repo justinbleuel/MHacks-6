@@ -4,6 +4,6 @@ Simple iOS game, played similarly to Flappy Bird. Avoid all time-wasting / distr
 
 Built in Swift using iOS' sprite-kit
 
-[Bootstrap'd site landing page!](http://justinbleuel.github.io/bootstrap/mhacks.html/)
+[Bootstrap'd site landing page!](http://justinbleuel.github.io/bootstrap/mhacks.html)
 
 # ![Screenshot](screenshot.png)
